@@ -15,7 +15,7 @@
 
 📙 Check out my [resume](https://andriugarcia.com/resume-andriu-garcia.pdf)
 
-🎉 Fun Fact: My profile picture was taken on a chaotic rainy day in Amsterdam
+🎉 Fun Fact: My profile picture was taken on a chaotic bike ride on a rainy day in Amsterdam
 
 
 
