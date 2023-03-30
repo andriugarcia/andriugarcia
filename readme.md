@@ -2,12 +2,19 @@
 # Hey 👋, I'm Andriu
 
 # ⚡️ A Few Quick Facts
-🔭 I’m currently working on creating my own [award-winning portfolio](https://andriugarcia.com).
+
+🔭 I’m currently working on creating my own [award-winning portfolio](https://andriugarcia.com)
+
 🧐 Learning now about animations on the Frontend and ML on the Backend
+
 👨‍💻 Most of my projects are available on my [resume](https://andriugarcia.com/resume-andriu-garcia.pdf)
+
 📝 I'm writing case studies on my portfolio about the project that I've created
+
 💬 I love to learn about other people's project ideas
+
 📙 Check out my [resume](https://andriugarcia.com/resume-andriu-garcia.pdf)
+
 🎉 Fun Fact: 
 
 
