@@ -10,6 +10,11 @@
 📙 Check out my [resume](https://andriugarcia.com/resume-andriu-garcia.pdf)
 🎉 Fun Fact: 
 
+
+https://user-images.githubusercontent.com/23099971/228860896-f80ba039-0732-4f96-9134-6246b1d833f7.mp4
+
+
+
 # 🗂️ Case Studies
 
 - [Olimaps](https://andriugarcia.com/olimaps) - Creating real connections using cutting-edge technology
