@@ -3,24 +3,17 @@
 
 # ⚡️ A Few Quick Facts
 
-🔭 I’m currently working on creating my own [award-winning portfolio](https://andriugarcia.com)
-
-🧐 Learning now about animations on the Frontend and ML on the Backend
+🧐 Focused now on how to create great UX as a frontend
 
 👨‍💻 Most of my projects are available on my [resume](https://andriugarcia.com/resume-andriu-garcia.pdf)
 
-📝 I'm writing case studies on my portfolio about the project that I've created
+📝 I always write down every idea or thought that comes to my mind
 
 💬 I love to learn about other people's project ideas
 
 📙 Check out my [resume](https://andriugarcia.com/resume-andriu-garcia.pdf)
 
 🎉 Fun Fact: My profile picture was taken on a chaotic bike ride on a rainy day in Amsterdam
-
-
-
-https://user-images.githubusercontent.com/23099971/228860896-f80ba039-0732-4f96-9134-6246b1d833f7.mp4
-
 
 
 # 🗂️ Case Studies
